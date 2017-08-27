@@ -38,6 +38,13 @@ fundamentals that guide my life.
 
 ## Food
 
+* Most food today is meant to be enjoyed with pleasure in mind, rather than fuel.
+* Empty calories found in candy and burgers are causing a decline in overall health of the average American.
+* It is in the best interest of fast food companies to keep their own prices down while maintaining high prices of healthy food. This does NOT necessarily imply a conspiracy by "Big McDonald's."
+* Education about food plays a pivotal role in the potential for change. The more we educate the populace, the more positive results we will see.
+* Drinking water is more important than eating food.
+* Most people don't drink enough water.
+
 ## Physical Fitness
 
 * “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.” - Socrates

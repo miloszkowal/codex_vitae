@@ -58,6 +58,11 @@ fundamentals that guide my life.
 
 ## Mental / Emotional Wellness
 
+* Journaling is pivotal to maintaining a clear mind.
+* Meditation is important to maintaining focus. This does not imply any connection to religious dogma.
+* Most mental illness can be cured with therapy rather than medication.
+* The problems of mental illness in men are largely swept under the rug, and that will soon be a big problem.
+
 ## Relationships
 
 ---

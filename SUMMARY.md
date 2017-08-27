@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [README](README.md)
+* [Codex Vitae](chapter1.md)
+

@@ -21,3 +21,71 @@ Meta-beliefs: beliefs about beliefs
 
 Principles: fundamentals that guide my life.
 
+---
+
+Self-care
+
+Productivity
+
+Food
+
+Physical Fitness
+
+Intoxicants
+
+Mental / Emotional Wellness
+
+Relationships
+
+---
+
+Material World
+
+Abode / Home
+
+Money
+
+Consumerism / Capitalism
+
+---
+
+Work
+
+Career / Vocation
+
+Business
+
+Learning
+
+Passion Projects
+
+---
+
+Philosophies
+
+Society
+
+Politics
+
+Predictions
+
+---
+
+Influences - A personal canon
+
+Concepts
+
+Books, Media
+
+Quotations
+
+Inspirational Lives
+
+---
+
+My Writings
+
+Monthly Reports
+
+Yearly Reports
+

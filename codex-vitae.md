@@ -47,6 +47,8 @@ fundamentals that guide my life.
 
 ## Abode / Home
 
+I subscribe to the "luxurious minimalism" style of living. That means having few possessions, but the ones that I do have are of high quality and potentially premium price. This applies to all items, ranging from tea kettles to cars.
+
 ## Money
 
 ## Consumerism / Capitalism
@@ -84,6 +86,18 @@ Capitalism is the primary force driving people out of poverty. It is imperative 
 ## Books, Media
 
 ## Quotations
+
+* "Everything that follows is a result of what you see here." - Dr. Lanning in I, Robot \(film\).
+
+* "Stay hungry. Stay foolish." - Steve Jobs
+
+* "Make every day an excellent adventure." - Dr. Glenn "Max" McGee
+
+* "I see now that the circumstances of one's birth are irrelevant... It is what you do with the gift of life that determines who you are." - Mewtwo
+
+* "Power tends to corrupt, and absolute power corrupts absolutely. Great men are almost always bad men." - John Emerich Edward Dalberg Acton
+
+* "This too shall pass." - Persian adage
 
 ## Inspirational Lives
 

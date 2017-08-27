@@ -51,6 +51,8 @@ fundamentals that guide my life.
 
 ## Consumerism / Capitalism
 
+Capitalism is the primary force driving people out of poverty. It is imperative that people are allowed to trade and work freely wherever they please and whatever they are most suited to doing. Those people need to be compensated for their work in such a manner that allows them to live a sustainable life. I do not support a set minimum wage, as that is detrimental to small businesses on which capitalism thrives. It is the moral imperative of business owners to pay their employees wages commensurate with their output and experience. Those that do not need to be investigated.
+
 ---
 
 # Work

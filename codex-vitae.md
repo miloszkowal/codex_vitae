@@ -34,7 +34,7 @@ fundamentals that guide my life.
 * Productivity is not just a state of being, it is a philosophy.
 * Productivity can be acquired through training.
 * Productivity is defined as a deliberate action towards goals.
-* True productivity is only achieved with an end goal in mind.
+* True productivity is only achieved with an end goal in mind. Anything else is busywork.
 
 ## Food
 

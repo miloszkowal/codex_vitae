@@ -85,6 +85,11 @@ Capitalism is the primary force driving people out of poverty. It is imperative 
 
 ## Books, Media
 
+* _One Hundred Years of Solitude - _Gabriel Garcia Marquez
+* _The Unbearable Lightness of Being_ - Milan Kundera
+* _The War of Art_ - Steven Pressfield
+* _Brave New World_ - Aldous Huxley
+
 ## Quotations
 
 * "Everything that follows is a result of what you see here." - Dr. Lanning in I, Robot \(film\).

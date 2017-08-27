@@ -89,6 +89,10 @@ Capitalism is the primary force driving people out of poverty. It is imperative 
 
 ## Predictions
 
+### By 2020
+
+* Donald Trump will win the presidential election. Again.
+
 ---
 
 # Influences - A Personal Canon

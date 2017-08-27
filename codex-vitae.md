@@ -46,7 +46,7 @@ fundamentals that guide my life.
 
 ## Intoxicants
 
-* Recreational drugs \(mostly\) cloud judgement, and should be avoided.
+* Recreational drugs \(mostly\) cloud judgement, and should be avoided. This also includes alcohol.
 * The only exception to that are psychedelic substances, which can potentially open up new avenues of thinking. However, those should be used sparingly.
 
 ## Mental / Emotional Wellness

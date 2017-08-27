@@ -87,6 +87,11 @@ Capitalism is the primary force driving people out of poverty. It is imperative 
 
 ## Inspirational Lives
 
+* Jerzy Kowal
+* Elon Musk
+* Buster Benson - the inspiration behind this exercise
+* Steve Jobs
+
 ---
 
 # My Writings

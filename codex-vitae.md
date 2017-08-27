@@ -31,11 +31,23 @@ fundamentals that guide my life.
 
 ## Productivity
 
+* Productivity is not just a state of being, it is a philosophy.
+* Productivity can be acquired through training.
+* Productivity is defined as a deliberate action towards goals.
+* True productivity is only achieved with an end goal in mind.
+
 ## Food
 
 ## Physical Fitness
 
+* “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.” - Socrates
+* Train and grind every day. Don't let yourself get lazy and complacent with your body or weight. There are always things to be improved upon, whether it's a larger weight, a faster mile, or a longer run.
+* Physical fitness is inextricably linked to mental and emotional wellness, as well as productivity and energy levels.
+
 ## Intoxicants
+
+* Recreational drugs \(mostly\) cloud judgement, and should be avoided.
+* The only exception to that are psychedelic substances, which can potentially open up new avenues of thinking. However, those should be used sparingly.
 
 ## Mental / Emotional Wellness
 

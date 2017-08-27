@@ -85,7 +85,7 @@ Capitalism is the primary force driving people out of poverty. It is imperative 
 
 ## Books, Media
 
-* _One Hundred Years of Solitude - _Gabriel Garcia Marquez
+* _One Hundred Years of Solitude_ - Gabriel Garcia Marquez
 * _The Unbearable Lightness of Being_ - Milan Kundera
 * _The War of Art_ - Steven Pressfield
 * _Brave New World_ - Aldous Huxley

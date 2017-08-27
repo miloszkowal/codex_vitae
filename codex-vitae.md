@@ -15,77 +15,83 @@ If you are not Milosz:
 
 ---
 
-In General:
+# In General
 
-Meta-beliefs: beliefs about beliefs
+## Meta-beliefs
 
-Principles: fundamentals that guide my life.
+beliefs about beliefs
 
----
+## Principles
 
-Self-care
-
-Productivity
-
-Food
-
-Physical Fitness
-
-Intoxicants
-
-Mental / Emotional Wellness
-
-Relationships
+fundamentals that guide my life.
 
 ---
 
-Material World
+# Self-care
 
-Abode / Home
+## Productivity
 
-Money
+## Food
 
-Consumerism / Capitalism
+## Physical Fitness
 
----
+## Intoxicants
 
-Work
+## Mental / Emotional Wellness
 
-Career / Vocation
-
-Business
-
-Learning
-
-Passion Projects
+## Relationships
 
 ---
 
-Philosophies
+# Material World
 
-Society
+## Abode / Home
 
-Politics
+## Money
 
-Predictions
-
----
-
-Influences - A personal canon
-
-Concepts
-
-Books, Media
-
-Quotations
-
-Inspirational Lives
+## Consumerism / Capitalism
 
 ---
 
-My Writings
+# Work
 
-Monthly Reports
+## Career / Vocation
 
-Yearly Reports
+## Business
+
+## Learning
+
+## Passion Projects
+
+---
+
+# Philosophies
+
+## Society
+
+## Politics
+
+## Predictions
+
+---
+
+# Influences - A Personal Canon
+
+## Concepts
+
+## Books, Media
+
+## Quotations
+
+## Inspirational Lives
+
+---
+
+# My Writings
+
+# Monthly Reports
+
+# Yearly Reports
+
+
 

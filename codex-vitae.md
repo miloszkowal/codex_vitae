@@ -19,7 +19,7 @@ If you _are not_ Milosz:
 
 ## Meta-beliefs
 
-beliefs about beliefs
+* Beliefs are subject to change. It is important to maintain an open mind to differing perspectives and admitting when one's own views and principles are incorrect or flawed.
 
 ## Principles
 

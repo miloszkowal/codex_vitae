@@ -95,7 +95,7 @@ Capitalism is the primary force driving people out of poverty. It is imperative 
 
 ## Learning
 
-As cliche as it sounds, learning never ends. While traditional schooling ends for most people, we are constantly given the opportunity to learn new things. The only thing that might change is whether or not we're open to learning.
+As cliche as it sounds, learning never ends. While traditional schooling ends for most people, we are constantly given the opportunity to learn new things. The only thing that might change is whether or not we're open to learning. This involves reading \(and reading A LOT\), having conversations with people of differing opinions, and reflecting.
 
 ## Passion Projects
 
@@ -112,6 +112,7 @@ As cliche as it sounds, learning never ends. While traditional schooling ends fo
 ### By 2020
 
 * Donald Trump will win the presidential election. Again.
+* Electric cars will become significantly more affordable, as battery technology drastically improves
 
 ---
 
@@ -142,7 +143,7 @@ As cliche as it sounds, learning never ends. While traditional schooling ends fo
 
 ## Inspirational Lives
 
-* Jerzy Kowal
+* Jerzy and Joanna Kowal - my parents and the people responsible for creating the person I am today
 * Elon Musk
 * Steve Jobs
 * Buster Benson - the inspiration behind this exercise. While I disagree with virtually all of his beliefs, his approach to life itself is interesting and worth at least investigating.

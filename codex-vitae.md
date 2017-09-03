@@ -103,6 +103,20 @@ As cliche as it sounds, learning never ends. While traditional schooling ends fo
 
 # Philosophies
 
+## Morality
+
+* People are inherently apathetic - this primes people to be evil
+* All drugs should be decriminalized
+* Abortion should be legal, but not free
+* Gay marriage should be legal as a civil union
+
+## Family
+
+* The nuclear family is the building block of civilization
+* Problems in inner cities can be linked to single-family households and lack of a father figure - this does imply that lack of fathers is the only reason
+* Children need both a mother figure and a father figure in their lives to be successful in life
+* Parents should only have children voluntarily and when they know they can afford them
+
 ## Society
 
 ## Politics

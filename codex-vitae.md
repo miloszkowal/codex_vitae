@@ -121,6 +121,11 @@ As cliche as it sounds, learning never ends. While traditional schooling ends fo
 
 ## Politics
 
+* Socialism doesn't work. It never has and it never will. Look at Venezuela
+* People need to be able to peacefully protest against government
+* Free speech is paramount to a civilization's success
+* Democracies work. They're not perfect, but it's the best we have at this point.
+
 ## Predictions
 
 ### By 2020

@@ -23,8 +23,6 @@ If you _are not_ Milosz:
 
 ## Principles
 
-fundamentals that guide my life.
-
 ---
 
 # Self-care

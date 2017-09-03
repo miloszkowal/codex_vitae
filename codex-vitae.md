@@ -21,7 +21,13 @@ If you _are not_ Milosz:
 
 * Beliefs are subject to change. It is important to maintain an open mind to differing perspectives and admitting when one's own views and principles are incorrect or flawed.
 
-## Principles
+## Personal Principles
+
+* I will say what I mean and mean what I say
+* I will be punctual
+* I will complete all tasks to the best of my ability
+* I will only take on assignments that align with my personal beliefs; everything else will be discarded
+* I will be the change I want to see in the world
 
 ---
 

@@ -48,7 +48,7 @@ fundamentals that guide my life.
 ## Physical Fitness
 
 * “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.” - Socrates
-* Train and grind every day. Don't let yourself get lazy and complacent with your body or weight. There are always things to be improved upon, whether it's a larger weight, a faster mile, or a longer run.
+* Train and grind every day. Don't let yourself get lazy and complacent with your body or weight. There are always things to be improved upon, whether it's lifting larger weight, a faster mile, or a longer run.
 * Physical fitness is inextricably linked to mental and emotional wellness, as well as productivity and energy levels.
 
 ## Intoxicants
@@ -60,10 +60,16 @@ fundamentals that guide my life.
 
 * Journaling is pivotal to maintaining a clear mind.
 * Meditation is important to maintaining focus. This does not imply any connection to religious dogma.
-* Most mental illness can be cured with therapy rather than medication.
+* Most mental illness can be alleviated with therapy rather than medication.
 * The problems of mental illness in men are largely swept under the rug, and that will soon be a big problem.
 
 ## Relationships
+
+* The biological imperative for relationships is reproduction
+* "Casual sex" is an oxymoron
+* Relationships don't exist for happiness - they exist for companionship and as a preventative measure against insanity
+* Most people are driven by lust instead of by love
+* Modern media, especially pornography, skews the perception of what a relationship is
 
 ---
 
@@ -88,6 +94,8 @@ Capitalism is the primary force driving people out of poverty. It is imperative 
 ## Business
 
 ## Learning
+
+As cliche as it sounds, learning never ends. While traditional schooling ends for most people, we are constantly given the opportunity to learn new things. The only thing that might change is whether or not we're open to learning.
 
 ## Passion Projects
 

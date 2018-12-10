@@ -1,5 +1,5 @@
-# Summary
+# Table of contents
 
 * [README](README.md)
-* [Codex Vitae](chapter1.md)
+* [Codex Vitae](codex-vitae.md)
 

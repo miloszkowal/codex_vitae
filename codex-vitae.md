@@ -53,10 +53,6 @@ Personal Principles
 * Train and grind every day. Don't let yourself get lazy and complacent with your body or weight. There are always things to be improved upon, whether it's lifting larger weight, a faster mile, or a longer run.
 * Physical fitness is inextricably linked to mental and emotional wellness, as well as productivity and energy levels.
 
-#### Intoxicants
-
-* Recreational drugs cloud judgement, and should be avoided. This also includes alcohol.
-
 #### Mental / Emotional Wellness
 
 * Journaling is pivotal to maintaining a clear mind.
@@ -82,7 +78,7 @@ I subscribe to the "luxurious minimalism" style of living. That means having few
 
 #### Money
 
-To be written.
+Money is neither something to be pursued nor scorned. It is simply a vehicle for purchasing goods. While money may not buy happiness, it can certainly be used as a tool against sadness. Studies have shown that past a certain point, additional money does not provide additional happiness
 
 #### Consumerism / Capitalism
 
@@ -104,7 +100,9 @@ As cliche as it sounds, learning never ends. While traditional schooling ends fo
 
 #### Passion Projects
 
-To be written.---
+To be written.
+
+---
 
 ### Philosophies
 
@@ -140,7 +138,7 @@ To be written.
 #### By 2020
 
 * Donald Trump will win the presidential election. Again.
-* Electric cars will become significantly more affordable, as battery technology drastically improves
+* Electric cars will become significantly more affordable, as battery technology drastically improves.
 
 ---
 

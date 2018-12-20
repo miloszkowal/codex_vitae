@@ -1,18 +1,5 @@
 # Codex Vitae
 
-I’m trying something new this year. I believe that not enough people live by their principles, so I’m taking the time to live by my own. This document is meant to be a repository of these principles, sort of as a public record, so that I can be held accountable. I have been working on this for some time now, and the start of the new year is a decent time to publish. The kinks, particularly with the publishing aspect of it, are still to be worked out, but this is for now.---This document is a living repository of the beliefs, principles, and actions of Milosz Kowal. It is designed to keep track of changes in thinking patterns, beliefs, and actions, and have them be publicly available. Proceed at your own risk.If you are Milosz:
-
-* Develop a habit of using the Codex as a repository for beliefs that develop throughout the year.
-* Consider doing a monthly review of whether my life is in alignment with values and beliefs. If not, should my behavior change or have my understanding and values changed.
-* Do a yearly review in January of the entire document, editing places where beliefs have changed. Expect beliefs and tactics to change, don't hold on to them too rigidly.
-
-If you are not Milosz:
-
-* Read this with the understanding that you are different than Milosz; the way he lives his life is not the way you should live yours.
-* Consider creating your own Codex Vitae. Feel free to copy anything here that is helpful.
-
----
-
 ### In General
 
 #### Meta-beliefs
@@ -49,6 +36,8 @@ Personal Principles
 
 #### Physical Fitness
 
+Be a good athlete. Know your physical limits and strive to push past them.
+
 * "No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable." - Socrates
 * Train and grind every day. Don't let yourself get lazy and complacent with your body or weight. There are always things to be improved upon, whether it's lifting larger weight, a faster mile, or a longer run.
 * Physical fitness is inextricably linked to mental and emotional wellness, as well as productivity and energy levels.
@@ -61,6 +50,10 @@ Personal Principles
 * The problems of mental illness in men are largely swept under the rug, and that will soon be a big problem.
 
 #### Relationships
+
+Be a good son. Honor your parents and your parentage. Be proud of where you came from and don't hide it. Being a son doesn't mean just of your parents, but also of your country.
+
+Be a good lover. When you love someone, act that way. Tell that person you love her, tell her you're proud of her. Be such that you bring out the best in her.
 
 * The biological imperative for relationships is reproduction
 * "Casual sex" is an oxymoron
@@ -88,7 +81,9 @@ Capitalism is the primary force driving people out of poverty. It is imperative 
 
 #### Career / Vocation
 
-To be written.
+Be a good employee; don't pilfer time or goods when they're not given to you. do not ask for more than you've earned. Strive to earning as much as possible.
+
+Do the work because you're good at it and no one else can do it, not because it's a paycheck. Act so that you can take pride in your work and are confident in talking about it with friends.
 
 #### Business
 

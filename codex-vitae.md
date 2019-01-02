@@ -67,15 +67,25 @@ Be a good lover. When you love someone, act that way. Tell that person you love 
 
 #### Abode / Home
 
-I subscribe to the "luxurious minimalism" style of living. That means having few possessions, but the ones that I do have are of high quality and potentially premium price. This applies to all items, ranging from tea kettles to cars.
+Own things that exemplify your own personal tastes. Making aesthetic decisions brings you closer to the Kingdom of God, so do not purchase anything for your home unless it has a connection to the divine in some way. This applies to everything, from tea kettles to furniture to homes themselves.
+
+Do not buy more than you need, and try to maximize what you have such that you get your money's worth out of it.
+
+Be aware of what you have. Do not buy things for the sake of buying things. Too many families rent storage because they have too much junk. Do not let yourself get to that point.
 
 #### Money
 
-Money is neither something to be pursued nor scorned. It is simply a vehicle for purchasing goods. While money may not buy happiness, it can certainly be used as a tool against sadness. Studies have shown that past a certain point, additional money does not provide additional happiness
+Money is neither something to be pursued nor scorned. It is simply a vehicle for purchasing goods. While money may not buy happiness, it can certainly be used as a tool against sadness. 
+
+Save money and do not squander it needlessly. Always prioritize saving over entertainment expenditures. Make a budget and stick to it.
+
+That being said, budget for entertainment. It is important to enjoy everything life has to offer. Do not turn into a Scrooge.
 
 #### Consumerism / Capitalism
 
-Capitalism is the primary force driving people out of poverty. It is imperative that people are allowed to trade and work freely wherever they please and whatever they are most suited to doing. Those people need to be compensated for their work in such a manner that allows them to live a sustainable life. I do not support a set minimum wage, as that is detrimental to small businesses on which capitalism thrives. It is the moral imperative of business owners to pay their employees wages commensurate with their output and experience. Those that do not need to be investigated.---
+Capitalism is the primary force driving people out of poverty. It is imperative that people are allowed to trade and work freely wherever they please and whatever they are most suited to doing. Those people need to be compensated for their work in such a manner that allows them to live a sustainable life. I do not support a set minimum wage, as that is detrimental to small businesses on which capitalism thrives. It is the moral imperative of business owners to pay their employees wages commensurate with their output and experience. Those that do not need to be investigated.
+
+---
 
 ### Work
 
@@ -91,11 +101,11 @@ To be written.
 
 #### Learning
 
-As cliche as it sounds, learning never ends. While traditional schooling ends for most people, we are constantly given the opportunity to learn new things. The only thing that might change is whether or not we're open to learning. This involves reading \(and reading A LOT\), having conversations with people of differing opinions, and reflecting.
+As cliche as it sounds, learning never ends. While traditional schooling ends for most people, we are constantly given the opportunity to learn new things. The only thing that might change is whether or not we're open to learning. This involves reading a lot, having conversations with people of differing opinions, and reflecting.
 
 #### Passion Projects
 
-To be written.
+Ideas have to be discovered, and that discovery occurs through work. Take some time every day to bring yourself further to your goals, whether that means writing, coding, reading.
 
 ---
 
@@ -121,9 +131,11 @@ To be written.
 
 #### Politics
 
-* Socialism doesn't work. It never has and it never will. Look at Venezuela
+* Socialism doesn't work. It never has and it never will.
 * People need to be able to peacefully protest against government
 * Free speech is paramount to a civilization's success
+* Free speech is absolute - "hate speech" is free speech
+  * This does not mean that the author condones or agrees with hateful remarks
 * Democracies work. They're not perfect, but it's the best we have at this point.
 
 ---
@@ -143,10 +155,11 @@ To be written.
 
 #### Books, Media
 
-* One Hundred Years of Solitude - Gabriel Garcia Marquez
-* The Unbearable Lightness of Being - Milan Kundera
-* The War of Art - Steven Pressfield
-* Brave New World - Aldous Huxley
+* _One Hundred Years of Solitude_ - Gabriel Garcia Marquez
+* _The Unbearable Lightness of Being_ - Milan Kundera
+* _The War of Art_ - Steven Pressfield
+* _Brave New World_ - Aldous Huxley
+* _12 Rules for Life_ - Jordan B. Peterson
 
 #### Quotations
 
@@ -162,12 +175,5 @@ To be written.
 * Jerzy and Joanna Kowal - my parents and the people responsible for creating the person I am today
 * Elon Musk
 * Steve Jobs
-
----
-
-#### My Writings
-
-#### Monthly Reports
-
-#### Yearly Reports
+* Jordan B. Peterson
 

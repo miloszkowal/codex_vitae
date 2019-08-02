@@ -1,6 +1,6 @@
 # README
 
-Not enough people live by their principles, but mostly because they don't know what their principles are. This document serves as an attempt for me to discover and live by my own principles, and document them publicly. I have been working on this for some time now, and the start of the new year is a decent time to publish. The kinks, particularly with the publishing aspect of it, are still to be worked out, but this is for now.---This document is a living repository of the beliefs, principles, and actions of Milosz Kowal. It is designed to keep track of changes in thinking patterns, beliefs, and actions, and have them be publicly available. Proceed at your own risk.If you are Milosz:
+Not enough people live by their principles, but mostly because they don't know what their principles are. This document serves as an attempt for me to discover and live by my own principles, and document them publicly. This document is a living repository of the beliefs, principles, and actions of Milosz Kowal. It is designed to keep track of changes in thinking patterns, beliefs, and actions, and have them be publicly available. Proceed at your own risk. If you are Milosz:
 
 * Develop a habit of using the Codex as a repository for beliefs that develop throughout the year.
 * Consider doing a monthly review of whether my life is in alignment with values and beliefs. If not, should my behavior change or have my understanding and values changed.

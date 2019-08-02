@@ -24,6 +24,7 @@ Personal Principles
 * Productivity can be acquired through training.
 * Productivity is defined as a deliberate action towards goals.
 * True productivity is only achieved with an end goal in mind. Anything else is busywork.
+* Being hyperproductive can lead to burnout and take away from the things that matter the most.
 
 #### Food
 
@@ -36,11 +37,10 @@ Personal Principles
 
 #### Physical Fitness
 
-Be a good athlete. Know your physical limits and strive to push past them.
-
+* Be a good athlete. Learn your physical limits and strive to push past them.
 * "No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable." - Socrates
-* Train and grind every day. Don't let yourself get lazy and complacent with your body or weight. There are always things to be improved upon, whether it's lifting larger weight, a faster mile, or a longer run.
-* Physical fitness is inextricably linked to mental and emotional wellness, as well as productivity and energy levels.
+* Train and grind every day. Don't let yourself get lazy and complacent with your body or weight. There are always things to be improved upon, whether it's lifting larger weight, a faster mile, or a longer distance.
+* Physical fitness is inextricably linked to mental and emotional wellness.
 
 #### Mental / Emotional Wellness
 
@@ -48,6 +48,7 @@ Be a good athlete. Know your physical limits and strive to push past them.
 * Meditation is important to maintaining focus. This does not imply any connection to religious dogma.
 * Most mental illness can be alleviated with therapy rather than medication.
 * The problems of mental illness in men are largely swept under the rug, and that will soon be a big problem.
+* Seek to cultivate silence and learn to live in stillness.
 
 #### Relationships
 
@@ -60,6 +61,7 @@ Be a good lover. When you love someone, act that way. Tell that person you love 
 * Relationships don't exist for happiness - they exist for companionship and as a preventative measure against insanity
 * Most people are driven by lust instead of by love
 * Modern media, especially pornography, skews the perception of what a relationship is
+* Most people pine for a relationship, whether they admit to it or not is irrelevant.
 
 ---
 
@@ -91,13 +93,14 @@ Capitalism is the primary force driving people out of poverty. It is imperative 
 
 #### Career / Vocation
 
-Be a good employee; don't pilfer time or goods when they're not given to you. do not ask for more than you've earned. Strive to earning as much as possible.
+Be a good employee; don't pilfer time or goods when they're not given to you. do not ask for more than you've earned. 
+
+Strive to earning as much as possible (Note: This is under review. More money does not equate more happiness.)
 
 Do the work because you're good at it and no one else can do it, not because it's a paycheck. Act so that you can take pride in your work and are confident in talking about it with friends.
 
-#### Business
+Don't work for companies from whom you'd never buy the product. For example, don't work for an ad agency if you don't like ads.
 
-To be written.
 
 #### Learning
 
@@ -127,7 +130,7 @@ Ideas have to be discovered, and that discovery occurs through work. Take some t
 
 #### Society
 
-To be written.
+* Society is simply a collection of individuals. All policies should go down to the level of the individual as opposed to the level of the group.
 
 #### Politics
 

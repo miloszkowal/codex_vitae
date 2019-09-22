@@ -8,11 +8,12 @@
 
 Personal Principles
 
-* I will say what I mean and mean what I say
-* I will be punctual
-* I will complete all tasks to the best of my ability
-* I will only take on assignments that align with my personal beliefs; everything else will be discarded
-* I will be the change I want to see in the world
+* I will do everything with intentionality.
+* I will say what I mean and mean what I say.
+* I will be punctual.
+* I will complete all tasks to the best of my ability.
+* I will only take on assignments that align with my personal beliefs; everything else will be discarded.
+* I will be the change I want to see in the world.
 
 ---
 
@@ -77,7 +78,7 @@ Be aware of what you have. Do not buy things for the sake of buying things. Too 
 
 #### Money
 
-Money is neither something to be pursued nor scorned. It is simply a vehicle for purchasing goods. While money may not buy happiness, it can certainly be used as a tool against sadness. 
+Money is neither something to be pursued nor scorned. It is simply a vehicle for purchasing goods. While money may not buy happiness, it can certainly be used as a tool against sadness.
 
 Save money and do not squander it needlessly. Always prioritize saving over entertainment expenditures. Make a budget and stick to it.
 
@@ -93,7 +94,7 @@ Capitalism is the primary force driving people out of poverty. It is imperative 
 
 #### Career / Vocation
 
-Be a good employee; don't pilfer time or goods when they're not given to you. do not ask for more than you've earned. 
+Be a good employee; don't pilfer time or goods when they're not given to you. do not ask for more than you've earned.
 
 Strive to earning as much as possible (Note: This is under review. More money does not equate more happiness.)
 

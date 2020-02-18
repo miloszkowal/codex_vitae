@@ -29,9 +29,10 @@ Personal Principles
 
 #### Food
 
-* Most food today is meant to be enjoyed with pleasure in mind, rather than fuel.
+* Eat food, not too much, mostly plants. (from Michael Pollan's *Food Rules*)
+* Most food today is designed to be enjoyed with pleasure in mind, rather than fuel.
 * Empty calories found in candy and burgers are causing a decline in overall health of the average American.
-* It is in the best interest of fast food companies to keep their own prices down while maintaining high prices of healthy food. This does NOT necessarily imply a conspiracy by "Big McDonald's."
+* It is in the best interest of fast food companies to keep their own prices down while maintaining high prices of healthy food. This does *not* necessarily imply a conspiracy by "Big McDonald's."
 * Education about food plays a pivotal role in the potential for change. The more we educate the populace, the more positive results we will see.
 * Drinking water is more important than eating food.
 * Most people don't drink enough water.
@@ -41,13 +42,13 @@ Personal Principles
 * Be a good athlete. Learn your physical limits and strive to push past them.
 * "No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable." - Socrates
 * Train and grind every day. Don't let yourself get lazy and complacent with your body or weight. There are always things to be improved upon, whether it's lifting larger weight, a faster mile, or a longer distance.
-* Physical fitness is inextricably linked to mental and emotional wellness.
+* Physical fitness is inextricably linked to mental, emotional, and financial wellness.
 
 #### Mental / Emotional Wellness
 
-* Journaling is pivotal to maintaining a clear mind.
+* Writing is pivotal to maintaining a clear mind.
 * Meditation is important to maintaining focus. This does not imply any connection to religious dogma.
-* Most mental illness can be alleviated with therapy rather than medication.
+* Most mental illness can be alleviated with deliberate action (exercise, pursing a singular goal, etc.).
 * The problems of mental illness in men are largely swept under the rug, and that will soon be a big problem.
 * Seek to cultivate silence and learn to live in stillness.
 
@@ -78,11 +79,14 @@ Be aware of what you have. Do not buy things for the sake of buying things. Too 
 
 #### Money
 
-Money is neither something to be pursued nor scorned. It is simply a vehicle for purchasing goods. While money may not buy happiness, it can certainly be used as a tool against sadness.
+Money is neither something to be pursued nor scorned. It is simply a vehicle for expressing your values. While money may not buy happiness, it can certainly be used as a tool against sadness.
+How you spend your money is a direct reflection of your values. Actions speak louder than words.
 
 Save money and do not squander it needlessly. Always prioritize saving over entertainment expenditures. Make a budget and stick to it.
 
 That being said, budget for entertainment. It is important to enjoy everything life has to offer. Do not turn into a Scrooge.
+
+Throwing more money at a problem will likely not solve the problem. Problems in people's personal lives will not be solved through money, but through action, and probably through learning new skills (e.g. learn to fix your own sink before hiring a plumber)
 
 #### Consumerism / Capitalism
 
@@ -94,14 +98,11 @@ Capitalism is the primary force driving people out of poverty. It is imperative 
 
 #### Career / Vocation
 
-Be a good employee; don't pilfer time or goods when they're not given to you. do not ask for more than you've earned.
-
-Strive to earning as much as possible (Note: This is under review. More money does not equate more happiness.)
+Be a good employee; don't pilfer time or goods when they're not given to you. Do not ask for more than you've earned.
 
 Do the work because you're good at it and no one else can do it, not because it's a paycheck. Act so that you can take pride in your work and are confident in talking about it with friends.
 
 Don't work for companies from whom you'd never buy the product. For example, don't work for an ad agency if you don't like ads.
-
 
 #### Learning
 

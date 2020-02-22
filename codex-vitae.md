@@ -150,7 +150,13 @@ Ideas have to be discovered, and that discovery occurs through work. Take some t
 #### By 2020
 
 * Donald Trump will win the presidential election. Again.
-* Electric cars will become significantly more affordable, as battery technology drastically improves.
+* Electric cars will become significantly more affordable, as battery technology drastically improves. - the Tesla Model 3 proves this
+
+#### By 2030
+
+* We will see a dramatic shift in the political zeitgeist, with a resurgence of conservative values - this is already happening in places like the UK (Brexit) and the USA (Trump), but will spread to the rest of the world.
+* We will see many genetic diseases have a commercially available cure (not cheap), thanks to CRISPR
+* The Earth will reach carrying capacity of humanity at 9 billion individuals - this will have consquences that we are not even remotely aware of yet.
 
 ---
 
